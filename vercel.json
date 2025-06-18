@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:match*",
+      "destination": "https://api.irkiho.dynv6.net/:match*"
+    }
+  ]
+}
